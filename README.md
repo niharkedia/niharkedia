@@ -28,7 +28,7 @@
 ---
 
 ### 🌐 Connect With Me
-- 📧 Email: *add yours here*
-- 💼 LinkedIn: *link here*
+- 📧 Email:kedianihar852@gmail.com
 
+Thanks for visiting! 🚀
 ---
