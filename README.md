@@ -136,7 +136,7 @@ I highly value the collaborative nature of technology and actively look to contr
   ### 🌐 Connect With Me
   *Feel free to reach out for research collaborations, open-source projects, or engineering roles!*
 
-  **[LinkedIn](YOUR_LINKEDIN_URL_HERE) • [Portfolio](YOUR_PORTFOLIO_URL_HERE) • [Email](mailto:YOUR_EMAIL_HERE)**
+  **[LinkedIn](https://www.linkedin.com/in/nihar-kedia-9874a1300/) • [Portfolio](YOUR_PORTFOLIO_URL_HERE) • [Email](mailto:kedianihar852@gmail.com)**
 
   <br />
 
