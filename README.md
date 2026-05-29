@@ -112,14 +112,14 @@ I highly value the collaborative nature of technology and actively look to contr
 ## 📊 GitHub Ecosystem & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=niharkedia&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niharkedia&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight" alt="Most Used Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharkedia&layout=compact&theme=tokyonight" alt="Most Used Languages" width="50%"/>
 </div>
 
 ---
@@ -141,6 +141,6 @@ I highly value the collaborative nature of technology and actively look to contr
   <br />
 
   <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&color=39FF14&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter">
+  <img src="https://komarev.com/ghpvc/?username=niharkedia&color=39FF14&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter">
 
 </div>
